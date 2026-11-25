@@ -8,7 +8,7 @@ The funniest final text a dying phone sends at one percent battery, in the voice
 
 > battery 1%. goodbye cruel world. tell the charger i forgive it. p.s. your 6am alarm is cancelled, you're welcome.
 
-`main.ts` writes that text (117 characters, within the 1–200 character gate) to `entry.txt` in `MAKEFUN_OUTPUT_DIR`.
+`main.ts` writes that text (113 characters, within the 1–200 character gate) to `entry.txt` in `MAKEFUN_OUTPUT_DIR`.
 
 ## Run
 
